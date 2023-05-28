@@ -1,0 +1,6 @@
+reviewers:
+  # Reviewers per author.
+  # Keys are reviewees, each of which has an array of reviewers.
+  per_author:
+    shimo164:
+      - shimo164
